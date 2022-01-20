@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Leqitnyy
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning CSS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Leqitnyy#7774
